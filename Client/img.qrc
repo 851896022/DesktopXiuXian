@@ -1,0 +1,93 @@
+<RCC>
+    <qresource prefix="/">
+        <file>2021_08_21_12_06_56_979.gif</file>
+        <file>back.png</file>
+        <file>mincheng.png</file>
+        <file>jindutiao.png</file>
+        <file>img/head (0).png</file>
+        <file>img/head (1).png</file>
+        <file>img/head (2).png</file>
+        <file>img/head (3).png</file>
+        <file>img/head (4).png</file>
+        <file>img/head (5).png</file>
+        <file>img/head (6).png</file>
+        <file>img/head (7).png</file>
+        <file>img/head (8).png</file>
+        <file>img/head (9).png</file>
+        <file>img/head (10).png</file>
+        <file>img/head (11).png</file>
+        <file>img/head (12).png</file>
+        <file>img/head (13).png</file>
+        <file>img/head (14).png</file>
+        <file>img/head (15).png</file>
+        <file>img/head (16).png</file>
+        <file>img/Customer Copy.png</file>
+        <file>gua_ci/i_000000</file>
+        <file>gua_ci/i_000001</file>
+        <file>gua_ci/i_000010</file>
+        <file>gua_ci/i_000011</file>
+        <file>gua_ci/i_000100</file>
+        <file>gua_ci/i_000101</file>
+        <file>gua_ci/i_000110</file>
+        <file>gua_ci/i_000111</file>
+        <file>gua_ci/i_001000</file>
+        <file>gua_ci/i_001001</file>
+        <file>gua_ci/i_001010</file>
+        <file>gua_ci/i_001011</file>
+        <file>gua_ci/i_001100</file>
+        <file>gua_ci/i_001101</file>
+        <file>gua_ci/i_001110</file>
+        <file>gua_ci/i_001111</file>
+        <file>gua_ci/i_010000</file>
+        <file>gua_ci/i_010001</file>
+        <file>gua_ci/i_010010</file>
+        <file>gua_ci/i_010011</file>
+        <file>gua_ci/i_010100</file>
+        <file>gua_ci/i_010101</file>
+        <file>gua_ci/i_010110</file>
+        <file>gua_ci/i_010111</file>
+        <file>gua_ci/i_011000</file>
+        <file>gua_ci/i_011001</file>
+        <file>gua_ci/i_011010</file>
+        <file>gua_ci/i_011011</file>
+        <file>gua_ci/i_011100</file>
+        <file>gua_ci/i_011101</file>
+        <file>gua_ci/i_011110</file>
+        <file>gua_ci/i_011111</file>
+        <file>gua_ci/i_100000</file>
+        <file>gua_ci/i_100001</file>
+        <file>gua_ci/i_100010</file>
+        <file>gua_ci/i_100011</file>
+        <file>gua_ci/i_100100</file>
+        <file>gua_ci/i_100101</file>
+        <file>gua_ci/i_100110</file>
+        <file>gua_ci/i_100111</file>
+        <file>gua_ci/i_101000</file>
+        <file>gua_ci/i_101001</file>
+        <file>gua_ci/i_101010</file>
+        <file>gua_ci/i_101011</file>
+        <file>gua_ci/i_101100</file>
+        <file>gua_ci/i_101101</file>
+        <file>gua_ci/i_101110</file>
+        <file>gua_ci/i_101111</file>
+        <file>gua_ci/i_110000</file>
+        <file>gua_ci/i_110001</file>
+        <file>gua_ci/i_110010</file>
+        <file>gua_ci/i_110011</file>
+        <file>gua_ci/i_110100</file>
+        <file>gua_ci/i_110101</file>
+        <file>gua_ci/i_110110</file>
+        <file>gua_ci/i_110111</file>
+        <file>gua_ci/i_111000</file>
+        <file>gua_ci/i_111001</file>
+        <file>gua_ci/i_111010</file>
+        <file>gua_ci/i_111011</file>
+        <file>gua_ci/i_111100</file>
+        <file>gua_ci/i_111101</file>
+        <file>gua_ci/i_111110</file>
+        <file>gua_ci/i_111111</file>
+        <file>img/0.png</file>
+        <file>img/1.png</file>
+        <file>chatmessage/emojis.txt</file>
+    </qresource>
+</RCC>
