@@ -1,10 +1,12 @@
 # DesktopXiuXian
 桌面修仙——桌面放置类摸鱼游戏
 
-# 详情见↓帖子，择机开源
+# 详情见↓帖子
 https://www.52pojie.cn/thread-1498266-1-1.html
 
-## 背景
+[size=7]修为不更新问题，查看电脑日期和北京时间日期是否一致，日期是数据上传密码的一部分，日期不一致会导致无法上传。[/size]
+寻拥有苹果电脑，懂一丢丢QT的大佬，帮忙编译mac版
+[md]## 背景
 
 作为一个社畜
 
@@ -12,7 +14,7 @@ https://www.52pojie.cn/thread-1498266-1-1.html
 
 为了对抗资本家
 
-要在有限的办公时间里，摸更多的鱼
+要在有限的办公时间里，[color=#ff0000]摸更多的鱼[/color]
 
 但是又不能被发现
 
@@ -35,14 +37,14 @@ https://www.52pojie.cn/thread-1498266-1-1.html
 游戏的目标为修炼成仙！
 
 
-
+[attachimg]2325472[/attachimg]
 
 
 
 ## 后续计划
 
-1. 卜卦——20%【come soon】
-2. 玩家PK——5%
+1. [color=#ff0000]卜卦——100%【完成】[/color]
+[color=#ff0000]2. 玩家PK——5%【设计中】[/color]
 3. 更新美术设计——0%
 4. 世界探索——0%
 5. 道具系统——0%
@@ -55,9 +57,9 @@ https://www.52pojie.cn/thread-1498266-1-1.html
 
 点击→增加修为
 
-每日凌晨0点到6点修为翻倍！
+[size=5]每日凌晨0点到6点修为翻倍！
 
-其中凌晨2点到4点修为5倍！
+[color=#ff0000]其中凌晨2点到4点修为5倍！[/color][/size]
 
 ### 操作
 
@@ -69,25 +71,35 @@ https://www.52pojie.cn/thread-1498266-1-1.html
 
 排行榜↓
 
+[attachimg]2325812[/attachimg]
 
-
-###更换皮肤
+### 更换皮肤
 
 右键→变身
 
+[attachimg]2326331[/attachimg]
 
-
-都说变身没法改变大小，按住Ctrl+滚轮就可以啊！！！
+都说变身没法改变大小，按住[size=7]Ctrl+滚轮[/size]就可以啊！！！
 
 ### 华山论剑
 
 右键->华山论剑
 
+[attachimg]2327400[/attachimg]
+
+
+[size=6]半透明＋置顶=摸鱼绝配[/size]
+
+[attachimg]2327401[/attachimg]
 
 
 
-半透明＋置顶=摸鱼绝配
+[attachimg]2328740[/attachimg]
 
+
+### 推演运势
+
+[attachimg]2327579[/attachimg]
 
 
 
@@ -99,7 +111,7 @@ https://www.52pojie.cn/thread-1498266-1-1.html
 
 ### 突破所需修为
 
-
+[attachimg]2325471[/attachimg]
 
 
 ### 存档迁移
@@ -111,10 +123,15 @@ C:\Users\Administrator\AppData\Roaming\xiuxian.ini
 
 ## 下载地址
 
-https://wwr.lanzoui.com/i3604tb2isd 密码:axbb
-皮肤分享↓
-https://wwr.lanzoui.com/i8e3Bt6kb7i
+[size=5]https://wwr.lanzoui.com/iraQdtisc1i 密码:f36v[/size]
 
+
+
+[size=2]皮肤分享↓[/size]
+[size=2]https://wwr.lanzoui.com/i8e3Bt6kb7i[/size]
+[size=2]皮肤分享2↓[/size]
+[size=2]https://wwr.lanzoui.com/iwnWUtbbduj
+[/size]
 ##  更新日志
 ### 2021年8月23日-1.1.0
 1、更新排行榜功能
@@ -136,7 +153,7 @@ https://wwr.lanzoui.com/i8e3Bt6kb7i
 2、变身后，没有状态显示，配套增加了修炼状态查询。
 3、可以选择置顶啦~，默认为置顶状态，可以右键修改
 4、境界晋升提示窗口，修改为15秒消失，并且可以按esc退出
-5、客户端内存数据加密大大大大大大大提升了CE修改难度。
+5、客户端内存数据加密[size=1]大[/size][size=2]大[/size][size=3]大[/size][size=4]大[/size][size=5]大[/size][size=6]大[/size][size=7]大提升了CE修改难度。[/size]
 
 ### 2021年8月26日-1.3.0
 1、更新华山论剑，你们要的功法交流平台。
@@ -160,7 +177,23 @@ https://wwr.lanzoui.com/i8e3Bt6kb7i
 10、调整了排行榜机制，昵称只接受6个以内中文字符，且只能是中文。
 
 ### 2021年8月29日-1.3.3
-1.【重要】修复在某些情况下修为不增加问题
+1、【重要】修复在某些情况下修为不增加问题
+
+### 2021年8月29日-1.3.4
+1、【重要】修复了一处1.3.3中改丢了的问题
+
+### 2021年8月29日-1.4.0
+1、由于大家修为的提升，现在可以推演每日运势了。
+2、修改了一些已知问题。
+
+### 2021年8月31日-1.4.1
+1、修复在某些情况下，华山论剑卡死问题。
+2、添加意见反馈功能。
+3、修改排行榜排序规则，超过24小时不登录将不进行统计。
+
+### 2021年9月2日-1.4.2
+1、重写了华山论剑服务端，稳定性提升200%【不兼容1.4.1以前】
+2、华山论剑可以发表情了！
 
 ## 反修改措施
 1、存档
@@ -173,8 +206,17 @@ https://wwr.lanzoui.com/i8e3Bt6kb7i
 做游戏太难了
 跟无数玩家斗智斗勇
 终于知道为什么很多游戏外挂禁不掉
-能进数据库的人在数据库里报个数吧，我想知道有多少人能进去
+[backcolor=white][color=#ff0000]能进数据库的人在数据库里报个数吧，我想知道有多少人能进去[/color][/backcolor]
 
+[attachimg]2326069[/attachimg]
+
+## 感悟2
+
+即时通信太难做了，各种各样的问题
+网上的框架不是放弃了PC端，就是放弃了C++
+难道C++已经过时了么
+
+[/md]
 
 
 
