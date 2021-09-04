@@ -1,6 +1,7 @@
 # DesktopXiuXian
 桌面修仙——桌面放置类摸鱼游戏
-
+# 求合作道友
+一个人搞太难了，天天被催更
 # 详情见↓帖子
 https://www.52pojie.cn/thread-1498266-1-1.html
 
