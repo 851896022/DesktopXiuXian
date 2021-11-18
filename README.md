@@ -29,12 +29,15 @@
 
 游戏的目标为修炼成仙！
 
-https://attach.52pojie.cn/forum/202108/22/150558rq6seitobmk1h7qz.gif
+![1](https://attach.52pojie.cn/forum/202108/22/150558rq6seitobmk1h7qz.gif)
 
 
+![1](https://attach.52pojie.cn/forum/202109/05/225740ujt5oizmlkuko5m8.png)
 
 
-
+![1](https://attach.52pojie.cn/forum/202109/05/225817hoj6cyc4oi9s9k46.png)
+![1](https://attach.52pojie.cn/forum/202109/05/225900gc548x8cxn8gxz15.png)
+![1](https://attach.52pojie.cn/forum/202109/05/225953sy4vt6t4z6vya6nf.png)
 
 
 
@@ -68,18 +71,21 @@ https://attach.52pojie.cn/forum/202108/22/150558rq6seitobmk1h7qz.gif
 
 
 界面右键↓
+
 结束修炼→退出程序
 
 自废修为→删档
 
 排行榜↓
 
+![1](https://attach.52pojie.cn/forum/202108/23/222747x6npppx2xp93xpxp.png)
 
 
 ### 更换皮肤
 
 右键→变身
 
+![1](https://attach.52pojie.cn/forum/202108/25/232305wy4icymwbem7uemm.png)
 
 
 都说变身没法改变大小，按住Ctrl+滚轮就可以啊！！！
@@ -90,20 +96,22 @@ https://attach.52pojie.cn/forum/202108/22/150558rq6seitobmk1h7qz.gif
 
 
 
+![1](https://attach.52pojie.cn/forum/202108/29/002522udzshwndh22sihw5.png)
+
 
 半透明＋置顶=摸鱼绝配
 
 
+![1](https://attach.52pojie.cn/forum/202108/29/003126x4z4s5wxl2ws54sx.gif)
 
+可以选择表情
 
-
-
-
+![1](https://attach.52pojie.cn/forum/202109/02/234156cnkh9j9zjjpqh59u.png)
 
 ### 推演运势
 
 
-
+![1](https://attach.52pojie.cn/forum/202108/29/181018dt5q6tk96id99c6v.png)
 
 
 ## 攻略
@@ -114,7 +122,7 @@ https://attach.52pojie.cn/forum/202108/22/150558rq6seitobmk1h7qz.gif
 
 ### 突破所需修为
 
-
+![1](https://attach.52pojie.cn/forum/202108/22/150437heqjoq2zdd2w2dse.png)
 
 
 ### 存档迁移
@@ -131,8 +139,11 @@ https://wwr.lanzoui.com/iqSaCtqipbe  密码:5bz6
 
 
 皮肤分享↓
+
 https://wwr.lanzoui.com/i8e3Bt6kb7i
+
 皮肤分享2↓
+
 https://wwr.lanzoui.com/iwnWUtbbduj
 
 ##  更新日志
@@ -147,7 +158,7 @@ https://wwr.lanzoui.com/iwnWUtbbduj
 2、通信协议惨遭破解，待更新。
 
 
-[attach]2325869[/attach]
+
 
 ### 2021年8月24日-1.1.3
 1、修改通信协议，采用加密通话【破解难度提高400%】
@@ -279,7 +290,7 @@ https://wwr.lanzoui.com/iwnWUtbbduj
 
 能进数据库的人在数据库里报个数吧，我想知道有多少人能进去
 
-
+![1](https://attach.52pojie.cn/forum/202108/25/011236paa9p2uke572j1rr.jpg)
 
 
 ## 感悟2
@@ -296,6 +307,6 @@ https://wwr.lanzoui.com/iwnWUtbbduj
 
 
 
-
+![1](https://attach.52pojie.cn/forum/202109/03/174346m7n5d00lrliiqyzi.png)
 
 
