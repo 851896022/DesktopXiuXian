@@ -29,6 +29,7 @@
 
 游戏的目标为修炼成仙！
 
+https://attach.52pojie.cn/forum/202108/22/150558rq6seitobmk1h7qz.gif
 
 
 
@@ -75,7 +76,7 @@
 
 
 
-###更换皮肤
+### 更换皮肤
 
 右键→变身
 
@@ -297,4 +298,4 @@ https://wwr.lanzoui.com/iwnWUtbbduj
 
 
 
-[/md]
+
