@@ -1,12 +1,4 @@
-# DesktopXiuXian
-桌面修仙——桌面放置类摸鱼游戏
-# 求合作道友
-一个人搞太难了，天天被催更
-# 详情见↓帖子
-https://www.52pojie.cn/thread-1498266-1-1.html
-
-[size=7]修为不更新问题，查看电脑日期和北京时间日期是否一致，日期是数据上传密码的一部分，日期不一致会导致无法上传。[/size]
-寻拥有苹果电脑，懂一丢丢QT的大佬，帮忙编译mac版
+##详情见→https://www.52pojie.cn/thread-1498266-1-1.html
 [md]## 背景
 
 作为一个社畜
@@ -15,7 +7,7 @@ https://www.52pojie.cn/thread-1498266-1-1.html
 
 为了对抗资本家
 
-要在有限的办公时间里，[color=#ff0000]摸更多的鱼[/color]
+要在有限的办公时间里，摸更多的鱼
 
 但是又不能被发现
 
@@ -38,15 +30,24 @@ https://www.52pojie.cn/thread-1498266-1-1.html
 游戏的目标为修炼成仙！
 
 
-[attachimg]2325472[/attachimg]
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
 ## 后续计划
-
-1. [color=#ff0000]卜卦——100%【完成】[/color]
-[color=#ff0000]2. 玩家PK——5%【设计中】[/color]
-3. 更新美术设计——0%
+1. 玩家VS玩家——30%
+2. 技能系统——5%
 4. 世界探索——0%
 5. 道具系统——0%
 
@@ -58,9 +59,9 @@ https://www.52pojie.cn/thread-1498266-1-1.html
 
 点击→增加修为
 
-[size=5]每日凌晨0点到6点修为翻倍！
+每日凌晨0点到6点修为翻倍！
 
-[color=#ff0000]其中凌晨2点到4点修为5倍！[/color][/size]
+其中凌晨2点到4点修为5倍！
 
 ### 操作
 
@@ -72,35 +73,35 @@ https://www.52pojie.cn/thread-1498266-1-1.html
 
 排行榜↓
 
-[attachimg]2325812[/attachimg]
 
-### 更换皮肤
+
+###更换皮肤
 
 右键→变身
 
-[attachimg]2326331[/attachimg]
 
-都说变身没法改变大小，按住[size=7]Ctrl+滚轮[/size]就可以啊！！！
+
+都说变身没法改变大小，按住Ctrl+滚轮就可以啊！！！
 
 ### 华山论剑
 
 右键->华山论剑
 
-[attachimg]2327400[/attachimg]
-
-
-[size=6]半透明＋置顶=摸鱼绝配[/size]
-
-[attachimg]2327401[/attachimg]
 
 
 
-[attachimg]2328740[/attachimg]
+半透明＋置顶=摸鱼绝配
+
+
+
+
+
+
 
 
 ### 推演运势
 
-[attachimg]2327579[/attachimg]
+
 
 
 
@@ -112,7 +113,7 @@ https://www.52pojie.cn/thread-1498266-1-1.html
 
 ### 突破所需修为
 
-[attachimg]2325471[/attachimg]
+
 
 
 ### 存档迁移
@@ -124,15 +125,15 @@ C:\Users\Administrator\AppData\Roaming\xiuxian.ini
 
 ## 下载地址
 
-[size=5]https://wwr.lanzoui.com/iraQdtisc1i 密码:f36v[/size]
+https://wwr.lanzoui.com/iqSaCtqipbe  密码:5bz6
 
 
 
-[size=2]皮肤分享↓[/size]
-[size=2]https://wwr.lanzoui.com/i8e3Bt6kb7i[/size]
-[size=2]皮肤分享2↓[/size]
-[size=2]https://wwr.lanzoui.com/iwnWUtbbduj
-[/size]
+皮肤分享↓
+https://wwr.lanzoui.com/i8e3Bt6kb7i
+皮肤分享2↓
+https://wwr.lanzoui.com/iwnWUtbbduj
+
 ##  更新日志
 ### 2021年8月23日-1.1.0
 1、更新排行榜功能
@@ -154,7 +155,7 @@ C:\Users\Administrator\AppData\Roaming\xiuxian.ini
 2、变身后，没有状态显示，配套增加了修炼状态查询。
 3、可以选择置顶啦~，默认为置顶状态，可以右键修改
 4、境界晋升提示窗口，修改为15秒消失，并且可以按esc退出
-5、客户端内存数据加密[size=1]大[/size][size=2]大[/size][size=3]大[/size][size=4]大[/size][size=5]大[/size][size=6]大[/size][size=7]大提升了CE修改难度。[/size]
+5、客户端内存数据加密大大大大大大大提升了CE修改难度。
 
 ### 2021年8月26日-1.3.0
 1、更新华山论剑，你们要的功法交流平台。
@@ -196,6 +197,21 @@ C:\Users\Administrator\AppData\Roaming\xiuxian.ini
 1、重写了华山论剑服务端，稳定性提升200%【不兼容1.4.1以前】
 2、华山论剑可以发表情了！
 
+### 2021年9月4日-1.4.2.1
+1、万众期待的战斗功能终于来了。
+2、全新数值体系。
+3、多项功能系统。
+4、【尝鲜版本】功能待日后补全。
+
+
+### 2021年9月5日-1.5.0
+1、开启闯荡江湖篇章。
+2、目前江湖擂台为机器人。
+
+### 2021年9月7日-1.5.1
+1、擂台积分排名上线
+2、大家可以更和谐地论剑了
+
 ## 反修改措施
 1、存档
 2、客户端反CE 【✅】
@@ -207,9 +223,9 @@ C:\Users\Administrator\AppData\Roaming\xiuxian.ini
 做游戏太难了
 跟无数玩家斗智斗勇
 终于知道为什么很多游戏外挂禁不掉
-[backcolor=white][color=#ff0000]能进数据库的人在数据库里报个数吧，我想知道有多少人能进去[/color][/backcolor]
+能进数据库的人在数据库里报个数吧，我想知道有多少人能进去
 
-[attachimg]2326069[/attachimg]
+
 
 ## 感悟2
 
@@ -217,8 +233,11 @@ C:\Users\Administrator\AppData\Roaming\xiuxian.ini
 网上的框架不是放弃了PC端，就是放弃了C++
 难道C++已经过时了么
 
+
+## 纪念一下今天的乾卦
+
+
+
+
+
 [/md]
-
-
-
-
