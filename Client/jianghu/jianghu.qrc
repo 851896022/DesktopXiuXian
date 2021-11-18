@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>RC/user.png</file>
+        <file>RC/pk-left.png</file>
+        <file>RC/pk-right.png</file>
+    </qresource>
+</RCC>

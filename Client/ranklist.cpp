@@ -56,3 +56,10 @@ void RankList::showRank(QNetworkReply *reply)
     }
 }
 
+
+void RankList::on_btnJfen_clicked()
+{
+    accessManager->get(QNetworkRequest(QUrl("http://xiuxian.fuh.ink:8522/rank/jifen")));
+
+}
+

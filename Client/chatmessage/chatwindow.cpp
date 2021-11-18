@@ -8,6 +8,7 @@
 #include <QBuffer>
 #include <QSettings>
 #include <QThread>
+
 ChatWindow::ChatWindow(QWidget *parent) :
     QMainWindow(parent),
     ui(new Ui::ChatWindow)
@@ -52,12 +53,11 @@ void ChatWindow::on_pushButton_clicked()
 {
 
     QString msg = ui->textEdit->toPlainText();
-    QString msgtest = msg;
     msg.remove("\r");
     msg.remove("\n");
-    msgtest.remove(" ");
-    msgtest.remove("\t");
-    if(msgtest.isEmpty())
+    msg.remove(" ");
+    msg.remove("\t");
+    if(msg.isEmpty())
     {
         return;
     }
@@ -69,7 +69,8 @@ void ChatWindow::on_pushButton_clicked()
     ui->textEdit->setText("");
     //AddMessageMe(msg);
     //ID|昵称|头像|消息;
-    msg = _uuid+'|'+_name+'|'+_headPng+'|'+msg;
+
+    msg = _uuid+'|'+_name+'|'+_headPng+'|'+_wf.filter(msg);
     qDebug()<<msg.count();
     QByteArray ba= QByteArray(msg.toStdString().data()).toBase64();
     ba.append('\n');

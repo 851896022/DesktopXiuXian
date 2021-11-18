@@ -32,6 +32,7 @@
 #include "UpdataInfo/updatainfp.h"
 #include "Augur/augurwindow.h"
 #include  "UpdataInfo/feedback.h"
+#include "jianghu/jianghu.h"
 QT_BEGIN_NAMESPACE
 namespace Ui { class Dialog; }
 QT_END_NAMESPACE
@@ -146,6 +147,7 @@ private:
     ChatWindow _chatWindow;
     AugurWindow _augurWindow;
     FeedBack _feedback;
+    JiangHu _jianghu;
 
 signals:
     void sigChatShow();

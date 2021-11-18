@@ -22,6 +22,15 @@ SOURCES += \
     chatmessage/conservsocket.cpp \
     chatmessage/emojipicker.cpp \
     chatmessage/qnchatmessage.cpp \
+    chatmessage/wordfilter.cpp \
+    jianghu/battleai.cpp \
+    jianghu/jhleitai.cpp \
+    jianghu/jhleitaiconfirm.cpp \
+    jianghu/jianghu.cpp \
+    jianghu/jianghuglobal.cpp \
+    jianghu/skillbar.cpp \
+    jianghu/skilldata.cpp \
+    jianghu/userinfo.cpp \
     main.cpp \
     dialog.cpp \
     makename.cpp \
@@ -44,7 +53,16 @@ HEADERS += \
     chatmessage/conservsocket.h \
     chatmessage/emojipicker.h \
     chatmessage/qnchatmessage.h \
+    chatmessage/wordfilter.h \
     dialog.h \
+    jianghu/battleai.h \
+    jianghu/jhleitai.h \
+    jianghu/jhleitaiconfirm.h \
+    jianghu/jianghu.h \
+    jianghu/jianghuglobal.h \
+    jianghu/skillbar.h \
+    jianghu/skilldata.h \
+    jianghu/userinfo.h \
     makename.h \
     qaesencryption.h \
     qlog.h \
@@ -58,6 +76,11 @@ FORMS += \
     chatmessage/chatwindow.ui \
     chatmessage/emojipicker.ui \
     dialog.ui \
+    jianghu/jhleitai.ui \
+    jianghu/jhleitaiconfirm.ui \
+    jianghu/jianghu.ui \
+    jianghu/skillbar.ui \
+    jianghu/userinfo.ui \
     ranklist.ui
 
 # Default rules for deployment.
@@ -66,9 +89,10 @@ else: unix:!android: target.path = /opt/$${TARGET}/bin
 !isEmpty(target.path): INSTALLS += target
 
 RESOURCES += \
-    img.qrc
+    img.qrc \
+    jianghu/jianghu.qrc
 include(popupmanage.pri)
-VERSION       = 1.4.2
+VERSION       = 1.5.1
 RC_ICONS    = apjpm-5t3s5.ico
 
 DEFINES += QT_MESSAGELOGCONTEXT

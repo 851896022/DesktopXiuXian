@@ -89,5 +89,6 @@
         <file>img/0.png</file>
         <file>img/1.png</file>
         <file>chatmessage/emojis.txt</file>
+        <file>SensitiveWords.txt</file>
     </qresource>
 </RCC>

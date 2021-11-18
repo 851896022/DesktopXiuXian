@@ -21,6 +21,7 @@
 #include <QTcpSocket>
 #include "conservsocket.h"
 #include "emojipicker.h"
+#include "wordfilter.h"
 namespace Ui {
 class ChatWindow;
 }
@@ -83,6 +84,7 @@ private:
     QString _name = "null";
     QString _uuid = "uuid";
     EmojiPicker _emojipic;
+    WordFilter _wf;
 signals:
     void sendMsg(QByteArray ba);
 };

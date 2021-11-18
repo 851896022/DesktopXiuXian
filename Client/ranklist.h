@@ -40,6 +40,8 @@ private slots:
 
 
 
+    void on_btnJfen_clicked();
+
 private:
     Ui::RankList *ui;
     QNetworkAccessManager *accessManager;

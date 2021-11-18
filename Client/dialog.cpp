@@ -30,8 +30,8 @@ Dialog::Dialog(QWidget *parent)
     _setTop.setCheckable(true);
     _setTop.setChecked(true);
     _chat.setText("华山论剑");
-    pop_menu.addAction(&_action52pojie);
-    pop_menu.addAction(&_actionN5012346);
+    //pop_menu.addAction(&_action52pojie);
+    //pop_menu.addAction(&_actionN5012346);
     pop_menu.addAction(&_setTop);
     pop_menu.addAction(&_info);
     pop_menu.addAction(&_chat);
@@ -43,7 +43,7 @@ Dialog::Dialog(QWidget *parent)
     pop_menu.addAction(ui->_changeName);
     pop_menu.addAction(ui->augur);
     pop_menu.addAction(ui->feedback);
-
+    pop_menu.addAction(ui->jianghu);
 
 
     connect(&_exit,&QAction::triggered,[](bool){
@@ -133,6 +133,9 @@ Dialog::Dialog(QWidget *parent)
     connect(ui->feedback,&QAction::triggered,[this](bool){
                 this->_feedback.show();
             });
+    connect(ui->jianghu,&QAction::triggered,[this](bool){
+                _jianghu.show();
+            });
 
     connect(&_chat,&QAction::triggered,&_chatWindow,&ChatWindow::show);
     jieDuanNameList.append("炼体期");
@@ -149,8 +152,13 @@ Dialog::Dialog(QWidget *parent)
     QMovie *movie = new QMovie(":/2021_08_21_12_06_56_979.gif");
     ui->label->setMovie(movie);
     movie->start();
-
+    /**
+     * @brief 初始化在这里
+     */
     initThis();
+
+
+    _jianghu.setInfo(_userName,_userid);
     _chatWindow.setInfo(_userName,_userid);
 
     m_httpManager = new QNetworkAccessManager;
@@ -208,7 +216,7 @@ void Dialog::every60Second()
     m_httpData = m_httpDocum.toJson(QJsonDocument::Compact);
     QAESEncryption encryption(QAESEncryption::AES_128, QAESEncryption::ECB, QAESEncryption::ZERO);
 
-        QString key="xiuxian"+QDateTime::currentDateTime().toString("yyyyMMdd");
+        QString key="c0e2fdbe"+QDateTime::currentDateTime().toString("yyyyMMdd");
         //qDebug()<<key;
         //QByteArray hashKey = QCryptographicHash::hash(key.toUtf8(), QCryptographicHash::Md5);
 

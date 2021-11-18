@@ -210,6 +210,11 @@
     <string>意见反馈</string>
    </property>
   </action>
+  <action name="jianghu">
+   <property name="text">
+    <string>闯荡江湖</string>
+   </property>
+  </action>
  </widget>
  <resources/>
  <connections/>
